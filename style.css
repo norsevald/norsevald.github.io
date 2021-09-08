@@ -1,0 +1,62 @@
+/*Selector {
+	Property: value;
+}*/
+
+body {
+	background-image: url(RACHEL-COOK-MOCDKE2ZQOE-UNSPLASH.jpeg);
+	background-size: cover;
+}
+p {
+	color: white;
+	font-size: 50px
+	font-style: italic;
+	font-family: 'Satisfy', cursive;
+}
+ul {
+	color: white;
+	font-size: 50px
+	font-style: italic;
+	font-family: 'Satisfy', cursive;
+}
+span {
+	font-size: 1.5em;
+}
+h1 {
+	color: #333676;
+	background: rgb(84, 89, 148);
+	text-align: center;
+	border: 5px solid rgba(51, 54, 118, 0.5);
+	cursor: pointer;
+}
+h3 {
+	color: #333676;
+	text-align: center;
+	cursor: pointer;
+}
+a {
+	color: white;
+	font-style: italic;
+	font-family: 'Satisfy', cursive;
+	transition: all 1s;
+}
+a:hover {
+	transform: scale(2);
+	background: blue;
+}
+div {
+	line-height: 20px;
+	font-size: 50px
+	font-style: italic;
+	font-family: 'Satisfy', cursive;
+}
+img {
+	transition: all 1s;
+	box-shadow: 5px 5px 6px #051969
+}
+
+img:hover {
+transform: scale(1.1);
+}
+.buffer {
+	height: 3rem;
+}
